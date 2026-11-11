@@ -6,7 +6,7 @@ Most AI evals can't tell a good answer from one that would embarrass a restauran
 
 | Repo | What it is |
 |---|---|
-| [hospitality-agent-evals](https://github.com/woodywu-sommelier/hospitality-agent-evals) | Forty guest questions, a price checker, and a scorer that leaves taste to a sommelier |
+| [hospitality-agent-evals](https://github.com/woodywu-sommelier/hospitality-agent-evals) | Forty guest questions, a price checker, and a scorer that leaves taste to a sommelier. [Try it in your browser](https://huggingface.co/spaces/woodywu-sommelier/aster-room-test) |
 | [constance-test](https://github.com/woodywu-sommelier/constance-test) | Does a wine AI admit what it can't know? Phantom wines, invented citations, forgeries |
 | [hospitality-skills](https://github.com/woodywu-sommelier/hospitality-skills) | Agent skills: wine-list audit, house sommelier, wine fact guard |
 | [wine-judgment-lab](https://github.com/woodywu-sommelier/wine-judgment-lab) | Experiments on wine evidence and model judgment |
