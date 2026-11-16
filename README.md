@@ -11,6 +11,8 @@ Most AI evals can't tell a good answer from one that would embarrass a restauran
 | [hospitality-skills](https://github.com/woodywu-sommelier/hospitality-skills) | Agent skills: wine-list audit, house sommelier, wine fact guard |
 | [wine-judgment-lab](https://github.com/woodywu-sommelier/wine-judgment-lab) | Experiments on wine evidence and model judgment |
 
+Also building: **Operator Brief**, a morning podcast triage for hospitality operators. Pilot next.
+
 **For AI teams:** I build test sets on your venue, your list and your failure modes, and review agents before guests see them. [woodywusommelier.com/consulting/ai-teams](https://woodywusommelier.com/consulting/ai-teams/)
 
 Writing: [The Floor and the Terminal](https://floorandterminal.substack.com/) · Data: [Hugging Face](https://huggingface.co/woodywu-sommelier)
